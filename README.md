@@ -1,7 +1,7 @@
 
 
 
-### Hi there, my name is Shirley and I'm a computer engineering student  👋
+### I'm a computer engineering student  👋
 
 
  
