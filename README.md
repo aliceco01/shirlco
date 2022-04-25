@@ -1,7 +1,7 @@
 
 
 
-### I'm a computer engineering student  👋
+### I'm a computer engineering student and AWS re/start bootcamp graduate 👋
 
 
  
