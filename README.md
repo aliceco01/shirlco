@@ -1,18 +1,15 @@
 
 
 
-### I'm a computer engineering student and AWS re/start bootcamp graduate 👋
+### I'm a computer engineering student and AWS re/start bootcamp graduate 
 
 
  
   
-- :telescope: I’m working from home on some softwre projects and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
 
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
   
 
 <!--
