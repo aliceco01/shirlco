@@ -6,8 +6,8 @@
 
 
 - :dizzy: I'm an aspiring devOps engineer!
-- :compass: I strongly believe in testing, code quality and coding standards. 
-- 👯 I’m looking to collaborate on any of my open source packages, feel free to reach out.
+- 
+- 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
   
 
