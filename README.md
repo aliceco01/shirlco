@@ -1,12 +1,8 @@
 
 
 ### Welcome stranger :vulcan_salute:
-
-
-
-
-- I'm an aspiring devOps engineer.
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
+I'm an aspiring devOps engineer.
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
   
 
 <!--
