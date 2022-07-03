@@ -16,10 +16,10 @@ I'm a **DevOps Rngineer** and very passionate about the cloud.
 
 <div>
    <p align="center">
-      <a href="https://linkedin.com/in/leorrose" target="_blank">
+      <a href="https://www.linkedin.com/in/shirley-c-15b449175/" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="mailto:leor.rose@gmail.com" target="_blank">
+      <a href="mailto:cohenshirley06@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
    </p>
