@@ -4,7 +4,7 @@
 
 Hi, I'm **Shirley** 👋
 
-I'm a **DevOps Rngineer** and very passionate about the cloud.
+I'm a **DevOps Engineer** that is passionate about the cloud.
 
 - 🎓 **Education:** I studied  Computer Engineering and I’m an AWS Re/start graduate
 
