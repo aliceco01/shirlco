@@ -1,9 +1,29 @@
 
 
-### Welcome stranger :vulcan_salute:
-I'm an aspiring devOps engineer.
-How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shirley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirley-c-15b449175)
-  
+![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+
+Hi, I'm **Shirley** 👋
+
+I'm a **DevOps Rngineer** and very passionate about the cloud.
+
+- 🎓 **Education:** I studied  Computer Engineering and I’m an AWS Re/start graduate
+
+- 🔨 **Current Work**: I’m currently working on my AWS professional solutions architect certificate.
+
+
+
+---
+
+<div>
+   <p align="center">
+      <a href="https://linkedin.com/in/leorrose" target="_blank">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:leor.rose@gmail.com" target="_blank">
+         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+   </p>
+</div>
 
 <!--
 **shirlco/shirlco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
