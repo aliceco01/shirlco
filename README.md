@@ -9,6 +9,8 @@ I'm a **DevOps Engineer** that is passionate about the cloud.
 
 - 🔨 **Current Work**: I’m currently working on my AWS professional solutions architect certificate.
 
+- check out my blog: https://medium.com/@cohenshirley06
+
 
 
 ---
