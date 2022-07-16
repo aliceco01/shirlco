@@ -1,6 +1,5 @@
 
 
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 
 Hi, I'm **Shirley** 👋
 
