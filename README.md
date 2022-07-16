@@ -5,7 +5,7 @@ Hi, I'm **Shirley** 👋
 
 I'm a **DevOps Engineer** that is passionate about the cloud.
 
-- 🎓 **Education:** I studied  Computer Engineering and I’m an AWS Re/start graduate
+- 🎓 **Education:** I studied  Computer Engineering at Ben Gurion University and I’m an AWS Re/start graduate
 
 - 🔨 **Current Work**: I’m currently working on my AWS professional solutions architect certificate.
 
