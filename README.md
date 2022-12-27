@@ -1,13 +1,11 @@
 
 
 
-Hi, I'm **Shirley** 👋
+Hi, I'm **Shirley** 
 
-I'm a **DevOps Engineer** that is passionate about the cloud.
+**DevOps,CI/CD, dynamic pipelines and MLOps is my passion** 
 
-- 🎓 **Education:** I studied  Computer Engineering at Ben Gurion University and I’m an AWS Re/start graduate
-
-- 🔨 **Current Work**: I’m currently working on my AWS professional solutions architect certificate.
+- 🎓 **Education:** Electrical Engineering with specility in Computer engineering at Ben Gurion University
 
 - check out my blog: https://medium.com/@cohenshirley06
 
