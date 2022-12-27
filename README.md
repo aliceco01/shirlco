@@ -1,9 +1,7 @@
 
 
 
-Hi, I'm **Shirley** 
-
-**DevOps,CI/CD, dynamic pipelines and MLOps is my passion** 
+Hi, I'm **Shirley,**  **DevOps,CI/CD, dynamic pipelines and MLOps is my passion** 
 
 -  **Education:**
  Electrical Engineering with specility in Computer engineering at Ben Gurion University
