@@ -10,8 +10,7 @@
 
 <br />
 
-I'm a DevOps engineer with two years of experience. I'm passionate about using automation and infrastructure-as-code to improve software delivery and operations. I'm also interested in machine learning and using it to drive business value.
-I'm also interested in FinOps and exploring ways to optimize cloud spending and resource utilization. I believe that DevOps and FinOps go hand-in-hand, and I enjoy finding ways to improve both areas.
+
 
 
 
